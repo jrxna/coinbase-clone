@@ -1,4 +1,4 @@
-<h1 align="center">Simplified Coinbase Clone</h1>
+<h1 align="center">Simplified Coinbase Clone | Test</h1>
 <h3 align="center">Build with React, JavaScript, and Firebase. Real-time data from Coinranking API.</h3>
 
 ![Coinbase Clone Screenshot](coinbase-clone-preview.jpg)
